@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+svg {
+  background: black;
+  filter: invert(100%);
+  height: 100vmin;
+  left: calc(50% - 50vmin);
+  position: absolute;
+  width: 100vmin;
+}
+.cub {
+  animation: Cycle 5s infinite;
+  fill:#fff;
+  mix-blend-mode:difference;
+  stroke-linecap:butt;
+  stroke-linejoin:miter;
+  stroke-opacity:1;
+  stroke-width:1px;
+  stroke:none;
+}
+@keyframes Cycle {
+  0% { transform: translateX(70%); }
+  5% { transform: translateX(70%); }
+  25% { transform: translateX(0%); }
+  75% { transform: translateX(0%); }
+  95% { transform: translateX(-85%); }
+  100% { transform: translateX(-85%); }
+}
