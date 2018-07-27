@@ -2,7 +2,7 @@
 > A collection of computer programs to learn, explore, and evaluate. Understand the problem, give a big punch to it, think more of it, tired. Now look up here. Run it? Like it? go home with a little new knowledge. Your helping hand to competitve programming (Beware of Plagiarism!). Nail the technical interviews with confidence.
 
 ## Topics
-- [Programming](https://www.github.com/)
+- [Programming](https://www.github.com/programming)
   - [C Programming](https://www.github.com/)
   - [C++ Programming](https://github.com/Jishanshaikh4/Explore-the-codes/tree/master/Programming/CPP): Number of Programs till now **2**
   - [Java Programming](https://www.github.com/)
