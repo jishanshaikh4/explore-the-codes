@@ -1,4 +1,4 @@
-# Explore-the-codes
+# :coffee: Explore-the-codes
 > A collection of computer programs to learn, explore, and evaluate. Understand the problem, give a big punch to it, think more of it, tired. Now look up here. Run it? Like it? go home with a little new knowledge. Your helping hand to competitve programming (Beware of Plagiarism!). Nail the technical interviews with confidence.
 
 ## Topics
